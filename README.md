@@ -4,6 +4,10 @@ Web application that indexes all popular torrent sites, and saves it to the loca
 
 ![alt tag](http://i.imgur.com/meqeZrc.png)
 
+# Heads up: REWRITE IN PROGRESS!
+
+See here for more details: https://www.reddit.com/r/magnetissimo/comments/5km57y/im_rewriting_magnetissimo_so_it_no_longer_has/
+
 Goals:
 
 * Crawl multiple index sites for torrents and magnet links.
